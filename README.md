@@ -21,6 +21,6 @@ Atualmente sou acadêmica em Engenharia da Computação pelo Instituto Federal d
 <div>
   <a href="https://www.instagram.com/tassoares_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.youtube.com/channel/UCXitBlty8aLBLBcCxuR-86Q"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"></a>
-  <a href="https://https://sitoshnaa.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></a>
-  <a href="https://https://twitter.com/Samarapunzel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+  <a href="https://sitoshnaa.tumblr.com"><img src="https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white"></a>
+  <a href="https://twitter.com/Samarapunzel"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
 </div>
