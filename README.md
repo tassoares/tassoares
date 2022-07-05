@@ -26,6 +26,5 @@
     - 📚 Interessada em tudo que posso ou não aprender;
     - 👽 Estou procurando colaborar?! No momento não...
 </details>
-              
-                                   
+
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)                                                                                                                                                                           
