@@ -1,7 +1,7 @@
 ## 🖖 Olá!
 
 <div style="display": inline_block"><br>
-  <p align="left">
+  <p align="center">
   <img height="200" src="https://i.pinimg.com/originals/66/8d/70/668d70e429507f35a3706e05b6eb13e1.gif?ref=weheartit">
 </div>
 
