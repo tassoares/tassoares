@@ -3,10 +3,6 @@
   <img height="100" src="http://img2.wikia.nocookie.net/__cb20141107003240/muppet/images/thumb/b/b4/Drink_Kermit_TED_2014.gif/252px-Drink_Kermit_TED_2014.gif">
 </div>
 
-<div>
-Atualmente sou acadêmica em Engenharia da Computação pelo Instituto Federal de Educação, Ciência e Tecnologia de Mato Grosso.
-</div>
-
 <details>
     <summary><b>✨ Hobbies e Interesses</b></summary><br/>
     
