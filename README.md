@@ -21,10 +21,10 @@
 <details>
     <summary><b>✨ Hobbies e Interesses</b></summary><br/>
     
-    - 📺 Assistir doramas, filmes, séries;
-    - 🌱 Atualmente estou aprendendo sobre o ESP8266;
+    - 🌱 Atualmente estou aprendendo sobre Flutter;
     - 📚 Interessada em tudo que posso ou não aprender;
-    - 👽 Estou procurando colaborar?! No momento não...
+    - 📺 Assistir doramas, filmes, séries;
+    
 </details>
 
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)                                                                                                                                                                           
