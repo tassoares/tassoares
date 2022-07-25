@@ -1,11 +1,10 @@
+# Let's Work
+
+![](https://github.com/tassoares/tassoares/blob/dd0494ad8783e98ad7cce10b05cb979f4174a1d7/let_s_work.gif)
+
 ## 🖖 Olá!
-
-<div style="display": inline_block"><br>
-  <p align="center">
-  <img height="200" src="https://i.pinimg.com/originals/66/8d/70/668d70e429507f35a3706e05b6eb13e1.gif?ref=weheartit">
-</div>
-
-<p align="center">
+You can find me
+<p align="left">
     <a href="https://www.instagram.com/ia2comp/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tassoares" width="40" height="30" /> 
     </a>  
