@@ -14,7 +14,7 @@ You can find me
     <a href="https://ia2comp.tumblr.com" target="blank">
     <img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/tumblr.svg" alt="tassoares" width="40" height="30" /> 
     </a>
-    <a href="https://twitter.com/Samarapunzel" target="blank">
+    <a href="https://twitter.com/Ia2Comp" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tassoares" width="40" height="30" /> 
     </a>
 <details>
