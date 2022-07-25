@@ -18,6 +18,8 @@ YOU KNOW YOU LOVE ME. XO XO
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
   <img align="center" alt="Logo Jupyter" height="30" width="40" 
                       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img align="center" alt="Logo Jupyter" height="40" width="40"                    
+                      src="https://w7.pngwing.com/pngs/861/137/png-transparent-sheldon-cooper-sticker-telegram-borat-sagdiyev-others-hand-arm-nest-box-thumbnail.png" />
   </div>                      
 
 ## 🖖 Olá!
