@@ -1,6 +1,24 @@
 # Let's Work
+WAKEY WAKEY, GITHUB COMMUNITY. FIRST DAY HERE, LET'S SHOW SERVICE. 
+
+YOU KNOW YOU LOVE ME. XOXO
 
 ![](https://github.com/tassoares/tassoares/blob/dd0494ad8783e98ad7cce10b05cb979f4174a1d7/let_s_work.gif)
+
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Logo Canva" height="30" width="40" 
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
+  <img align="center" alt="Logo VsCode" height="30" width="40"
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Logo Flutter" height="30" width="40" 
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  <img align="center" alt="Logo Raspberry" height="30" width="40"
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" />
+  <img align="center" alt="Logo Firebase" height="30" width="40" 
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
+  <img align="center" alt="Logo Jupyter" height="30" width="40" 
+                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  </div>                      
 
 ## 🖖 Olá!
 You can find me
