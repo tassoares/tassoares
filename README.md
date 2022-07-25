@@ -22,6 +22,8 @@ YOU KNOW YOU LOVE ME. XOXO
 
 ## 🖖 Olá!
 You can find me
+<img align="right" alt="Sheldon Gif" height="150" style="border-radius:50px;" 
+       src="https://i.pinimg.com/originals/66/8d/70/668d70e429507f35a3706e05b6eb13e1.gif?ref=weheartit">
 <p align="left">
     <a href="https://www.instagram.com/ia2comp/" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tassoares" width="40" height="30" /> 
