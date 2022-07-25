@@ -1,7 +1,7 @@
 # Let's Work
 WAKEY WAKEY, GITHUB COMMUNITY. FIRST DAY HERE, LET'S SHOW SERVICE. 
 
-YOU KNOW YOU LOVE ME. XOXO
+YOU KNOW YOU LOVE ME. XO XO
 
 ![](https://github.com/tassoares/tassoares/blob/dd0494ad8783e98ad7cce10b05cb979f4174a1d7/let_s_work.gif)
 
