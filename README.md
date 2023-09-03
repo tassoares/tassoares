@@ -7,13 +7,6 @@ FIRST DAY HERE, LET'S SHOW SERVICE.
 
 YOU KNOW YOU LOVE ME. XO XO
 
-## You can find me
-    
-<a href="https://www.instagram.com/ia2comp/" target="blank"> <img align="center" src="https://img.icons8.com/ios-filled/1x/instagram-new.png" alt="tassoares" width="30" height="30" /></a> <a href="https://www.youtube.com/channel/UCXitBlty8aLBLBcCxuR-86Q" target="blank">
-<img align="center" src="https://img.icons8.com/ios-filled/1x/youtube-play.png" alt="tassoares" width="30" height="30" /></a>
-<a href="https://twitter.com/Ia2Comp" target="blank">
-<img align="center" src="https://img.icons8.com/material-sharp/256/twitter.png" alt="tassoares" width="30" height="30" /></a>
-
 ## Tech and Tools  
   <div style="display: inline_block"><br>
   <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/ios/1x/java-coffee-cup-logo--v2.gif"/>
