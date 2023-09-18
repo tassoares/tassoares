@@ -1,22 +1,25 @@
 # Let's Work
-<img align="center" alt="Logo Canva" height="120" width="160" 
-                      src="https://github.com/tassoares/tassoares/blob/dd0494ad8783e98ad7cce10b05cb979f4174a1d7/let_s_work.gif" />
-                      
-WAKEY WAKEY, GITHUB COMMUNITY. 
-FIRST DAY HERE, LET'S SHOW SERVICE. 
+<img align="left" height="150" src="https://github.com/tassoares/tassoares/blob/dd0494ad8783e98ad7cce10b05cb979f4174a1d7/let_s_work.gif" alt="octocat" style="margin-right: 2rem;" />                      
 
-YOU KNOW YOU LOVE ME. XO XO
+<br /><br />
+<br /><br /><br /><br />
 
-## Tech and Tools  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Java" height="30" width="40" src="https://img.icons8.com/ios/1x/java-coffee-cup-logo--v2.gif"/>
-  <img align="center" alt="Logo Canva" height="30" width="30" src="https://img.icons8.com/ios-filled/1x/canva.png" />
-  <img align="center"Logo VS Code" height="30" width="30" src="https://img.icons8.com/color/1x/visual-studio-code-insides.png" />
-  <img align="center"Logo Flutter" height="30" width="30" src="https://img.icons8.com/color/1x/flutter.png" />
-  <img align="center" alt="Logo Firebase" height="30" width="40" 
-                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
-  <img align="center" alt="Logo Jupyter" height="30" width="40" 
-                      src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
-  <img align="center" alt="Logo Jupyter" height="40" width="40"                    
-                      src="https://w7.pngwing.com/pngs/861/137/png-transparent-sheldon-cooper-sticker-telegram-borat-sagdiyev-others-hand-arm-nest-box-thumbnail.png"/>
-  </div>                      
+  💬 WAKEY WAKEY, GITHUB COMMUNITY. 
+  FIRST DAY HERE, LET'S SHOW SERVICE. 
+
+  YOU KNOW YOU LOVE ME. XO XO
+
+## 🛠️ **Tech and Tools** 
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white "HTML")
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white "CSS")
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black "JavaScript")
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white "Flutter")
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase "Firebase")
+
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white "Dart")
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white "Java")
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white "Visual Studio Code")
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+
+                    
